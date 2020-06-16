@@ -1,0 +1,13 @@
+package kercki.juliano.carroGradel;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CarroGradelApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
